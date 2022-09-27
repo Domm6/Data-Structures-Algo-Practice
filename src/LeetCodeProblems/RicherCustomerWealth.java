@@ -1,3 +1,4 @@
+package LeetCodeProblems;
 public class RicherCustomerWealth {
     public int maximumWealth(int[][] accounts) {
         int maxWealthSoFar = 0;

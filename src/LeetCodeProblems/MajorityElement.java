@@ -1,3 +1,4 @@
+package LeetCodeProblems;
 public class MajorityElement {
     public int MajorityElement(int[] nums) {
         int counter = 1;

@@ -1,3 +1,4 @@
+package SortAlgoPractice;
 class ShellSortGreatestToLeast {
     public static void main(String[] args) {
         int[] intAray = {12, -3, 93, 7, 0, -1, -85, 8, 7, 4};

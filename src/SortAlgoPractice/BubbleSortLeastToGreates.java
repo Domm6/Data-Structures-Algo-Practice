@@ -1,3 +1,4 @@
+package SortAlgoPractice;
 
 public class BubbleSortLeastToGreates {
     public static void main(String[] args) {

@@ -1,3 +1,4 @@
+package LeetCodeProblems;
 public class NumberofStepstoReduceNumbertoZero {
     public int numberOfSteps(int num) {
         int steps = 0;

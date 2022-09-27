@@ -1,3 +1,4 @@
+package SortAlgoPractice;
 public class InsertionSortLeastToGreatest {
     public static void main(String[] args) {
         int[] intArray = {12, -3, 93, 7, 0, -1, -85, 8, 7, 4};

@@ -1,3 +1,4 @@
+package LeetCodeProblems;
 public class RunningSumof1DArray {
     public int[] runningSum(int[] nums){
        int[] results = new int[nums.length]; 
